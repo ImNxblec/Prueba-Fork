@@ -1,3 +1,5 @@
 Hola, soy David, tengo 21 años, y estudio desarrollo de Software en el tecnológico Liceo Cristiano
 
 Se esta preparando para ser desarrollador Web
+
+Participo en la Primera Hackathon
