@@ -3,3 +3,5 @@ Hola, soy David, tengo 21 años, y estudio desarrollo de Software en el tecnoló
 Se esta preparando para ser desarrollador Web
 
 Participo en la Primera Hackathon
+
+Estoy practicando Github, y ahora voy a hacer un pull request
